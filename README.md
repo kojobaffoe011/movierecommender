@@ -4,7 +4,7 @@
 
 This repo contains
 
-- a dataset from movie lens which includes sThese files contain 1,000,209 anonymous ratings of approximately 3,900 movies made by 6,040 MovieLens users who joined MovieLens in 2000. More info about the dataset can be found in the `ml-1m/README.md`
+- a dataset from movie lens which contains 1,000,209 anonymous ratings of approximately 3,900 movies made by 6,040 MovieLens users who joined MovieLens in 2000. More info about the dataset can be found in the `ml-1m/README.md`
 - a jupiter notebook that uses the spark mllib to identify what users like and make movie recommendations using apache spark's mllib ALS model
 
 ## Prerequisites
