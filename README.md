@@ -1,4 +1,4 @@
-# MLLIB
+# Basic Movie Recommender
 
 ## Description
 
